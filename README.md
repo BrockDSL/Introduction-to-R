@@ -1,13 +1,24 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
 ![Tool Logo][imglogo]
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Introduction to R
+This workshop serves as an introduction to the R programming language as well as to the R Studio Interface. By the end of this workshop you should be able to do the following:
+ - Navigate the R Studio Cloud interface
+ - Create and manipulate variables in R
+ - Make basic adjustment and perform simple analysis on datasets
+ - Create and import new datasets
+ - Find and install packages from the CRAN
+ - Export your data back out of R Studio Cloud
 
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to have an R Studio Cloud account and have a new project open.  Follow the steps below to get set up.
+
+- (Skip this step if you already have an R Studio Cloud account) Begin by going to [https://rstudio.cloud/](https://rstudio.cloud/) and signing up for an account by clicking on the "Sign Up" text at the top right of the screen, then click the grey "Sign Up" button and fill in the form (or use the convenient Google or GitHub options if you have one of those accounts)
+- Log in to R Studio Cloud
+- You should arrive at your workspace.  From here click on the button that says, “New Project” and select “New R Studio Project”
+- Once your project has finished building, open the “Source” window by clicking on the double box symbol in the top right corner of the “Console” window
+
+![Source Button Location][source]
 
 Include:
  - All software that needs to be downloaded
@@ -36,4 +47,6 @@ Add in names of books, links to websites, or any other reccomendations for follo
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
+[imglogo]: INSERT LOGO FILENAME HERE
+[source]: INSERT LOGO FILENAME HERE
 [imglogo]: INSERT LOGO FILENAME HERE
