@@ -1,4 +1,4 @@
-![Tool Logo]()
+![Tool Logo](Intro-R.jpg)
 
 
 # Introduction to R
