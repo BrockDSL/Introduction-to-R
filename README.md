@@ -48,5 +48,5 @@ Add in names of books, links to websites, or any other reccomendations for follo
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [imglogo]: INSERT LOGO FILENAME HERE
-[source]: INSERT LOGO FILENAME HERE
-[imglogo]: INSERT LOGO FILENAME HERE
+[source]: sourcebutton.png
+[title]: projecttitle.png
