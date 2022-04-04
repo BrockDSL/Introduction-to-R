@@ -105,7 +105,8 @@ E. When you are done type "WOOHOO!!!!!!!" into the chat.  Feel free to share the
 ## Next Steps
 If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
 
-[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) 
+[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
+  
 [W3Schools R Tutorial](https://www.w3schools.com/r/default.asp)
   
    
