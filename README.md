@@ -10,6 +10,8 @@ This workshop serves as an introduction to the R programming language as well as
  - Find and install packages from the CRAN
  - Export your data back out of R Studio Cloud
   
+*Estimated workshop length: 2 hours*
+  
 ---
   
 ## Setup Instructions
