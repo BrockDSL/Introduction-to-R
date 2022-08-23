@@ -2,7 +2,7 @@
 
 
 # Introduction to R
--This workshop serves as an introduction to the R programming language as well as to the R Studio interface. By the end of this workshop you should be able to do the following:
+This workshop serves as an introduction to the R programming language as well as to the R Studio interface. By the end of this workshop you should be able to do the following:
  - Navigate the R Studio Cloud interface
  - Create and manipulate variables in R
  - Make basic adjustment and perform simple analysis on datasets
