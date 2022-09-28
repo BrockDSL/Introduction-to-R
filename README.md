@@ -86,7 +86,7 @@ E. Once you are done put a message in the chat saying "GOT IT!"
   
 **Task Set #4**  
 A. Create variables for the 1949 and 1950 AirPassengers data.  
-B. Calculate the total number of passengers that flew in 1950  
+B. Calculate the total number of passengers that flew in 1949 and 1950  
 C. Make a new variable called AirTotal that contains the total number of passengers that flew in 1949 and 1950  
 D. Once you are done, type "SOLVED!" in the chat  
   
