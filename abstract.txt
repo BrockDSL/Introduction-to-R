@@ -1,3 +1,3 @@
 This workshop serves as an introduction to the R programming language as well as to the R Studio Cloud (aka Posit Cloud) interface. By the end of this workshop attendees should be able to navigate the R Studio Cloud interface, create and manipulate variables in R, make basic adjustments and perform simple analysis on datasets, create and import new datasets, find and install packages from the CRAN, and export data out of R Studio Cloud.
 
-No prior experience with R is needed for this workshop
+No prior experience with R is needed for this workshop.
