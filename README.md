@@ -3,7 +3,7 @@
 
 # Introduction to R
 This workshop serves as an introduction to the R programming language as well as to the R Studio interface. By the end of this workshop you should be able to do the following:
- - Navigate the Posit Cloud interface
+ - Navigate the [Posit Cloud interface](https://posit.cloud/)
  - Create and manipulate variables in R
  - Make basic adjustment and perform simple analysis on datasets
  - Create and import new datasets
